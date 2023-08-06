@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Nuxt 3 & Tailwind css**
 
-- 💬 Ask me about **Djando, Vue js**
+- 💬 Ask me about **Django, Vue js**
 
 - ⚡ Fun fact **I am funny**
 
