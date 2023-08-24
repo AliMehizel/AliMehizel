@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alimehizel&label=Profile%20views&color=0e75b6&style=flat" alt="alimehizel" /> </p>
 
-- 🌱 I’m currently learning **Nuxt 3 & Tailwind css**
+- 🌱 I’m currently learning **FAST API FRAMEWORK & DOCKER**
 
-- 💬 Ask me about **Django, Vue js**
+- 💬 Ask me about **Django, Vue js , NUXT 3**
 
 - ⚡ Fun fact **I am funny**
 
