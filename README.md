@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Ali Mehizel</h1>
 <h3 align="center">A passionate Fullstack developer from Algeria</h3>
+<h3 align="center">A data science student at ENSSEA</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alimehizel&label=Profile%20views&color=0e75b6&style=flat" alt="alimehizel" /> </p>
 
 - 🌱 I’m currently learning **FAST API FRAMEWORK & DOCKER**
 
-- 💬 Ask me about **Django, Vue js , NUXT 3**
+- 💬 Ask me about **Django, Vue js , NUXT 3,React js**
 
 - ⚡ Fun fact **I am funny**
 
