@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alimehizel&label=Profile%20views&color=0e75b6&style=flat" alt="alimehizel" /> </p>
 
-- 🌱 I’m currently learning **FAST API FRAMEWORK & DOCKER**
+- 🌱 I’m currently learning **DJANGO CELERY**
 
 - 💬 Ask me about **Django, Vue js , NUXT 3,React js**
 
