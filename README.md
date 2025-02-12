@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alimehizel&label=Profile%20views&color=0e75b6&style=flat" alt="alimehizel" /> </p>
 
-- 🌱 I’m currently learning **MACHINE LEARNING**
+- 🌱 I’m currently learning **Deep Learning**
 
-- 💬 Ask me about **Django, Vue js , NUXT 3,React js,Machine learning**
+- 💬 Ask me about **Django, Vue js , NUXT 3,React js,Machine learning, Deep Learning**
 
 - ⚡ Fun fact **I am funny**
 
