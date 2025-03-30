@@ -10,8 +10,8 @@
 - 📫 How to reach me **mehizelali@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
-<a href="https://www.leetcode.com/aEk2rv2oEE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="alimehizel" height="30" width="40" /></a>
 <p align="left">
+<a href="https://www.leetcode.com/aEk2rv2oEE" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="aEk2rv2oEE" height="30" width="40" /></a>
 <a href="https://kaggle.com/alimehizel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="alimehizel" height="30" width="40" /></a>
 <a href="https://discord.gg/ENgAmNFy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="ENgAmNFy" height="30" width="40" /></a>
 <a href="https://instagram.com/_al_ii_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_al_ii_" height="30" width="40" /></a>
