@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alimehizel&label=Profile%20views&color=0e75b6&style=flat" alt="alimehizel" /> </p>
 
+- 🌱 I am currently pursuing my Master's degree in **Statistics and Data Science** at **ENSSEA**.
+
 - 🔭 I’m currently working on **NLP project**
 
 - 💬 Ask me about **Django, Vuejs, Machine learning, deeplearning**
