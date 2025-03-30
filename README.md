@@ -5,6 +5,8 @@
 
 - 🌱 I am currently pursuing my Master's degree in **Statistics and Data Science** at **ENSSEA**.
 
+- 🔬 Looking for potential collaboration or research opportunity in Statistics, Machine Learning or Data Science.
+
 - 🔭 I’m currently working on **NLP project**
 
 - 💬 Ask me about **Django, Vuejs, Machine learning, deeplearning**
